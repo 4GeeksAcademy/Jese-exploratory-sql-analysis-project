@@ -23,6 +23,9 @@ SELECT * FROM observations;
 
 -- MISSION 1
 -- Your query here;
+SELECT * FROM observations
+LIMIT 5;
+SELECT DISTINCT region_id FROM observations;
 
 -- MISSION 2
 -- Your query here;
